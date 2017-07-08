@@ -1,0 +1,9 @@
+.vs
+x64
+Debug
+Release
+*proj.user
+
+*.log
+*.ind
+*.dat
